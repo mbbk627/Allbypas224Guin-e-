@@ -1,0 +1,11 @@
+h1{
+  font-size: 3em;
+  text-align: center;
+  color: #333;
+  text-shadow: 2px 2px 0 rgba(255, 255, 255, 0.5);
+  letter-spacing: 2px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: yellow;
+  border: 5px solid;
+}
